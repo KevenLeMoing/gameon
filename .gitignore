@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# PyCharm cache
+.idea/
+
+# Jupyter cache
+notebooks/.ipynb_checkpoints/
+
 # C extensions
 *.so
 
